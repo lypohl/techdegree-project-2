@@ -156,16 +156,13 @@ footer .container {
   float: left;
   font-family: 'DM Serif Display', serif;
   font-size: 1.25em;
+  line-height: 0.75;
 }
 
 .footerRight {
   float: right;
   font-size: 0.8em;
   text-transform: uppercase;
-}
-
-.backToTop {
-  margin-top: 10px;
 }
 
 .footerNav {
@@ -251,7 +248,7 @@ footer .container {
   .footerNav li {
     list-style: none;
     display: inline-block;
-    margin: 15px 10px;
+    margin: 10px;
   }
 
 }
