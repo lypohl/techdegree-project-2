@@ -1,2 +1,2 @@
 # techdegree-project-2
- CSS and Responsive Code Unit
+ CSS and Mobile-First Responsive Unit
